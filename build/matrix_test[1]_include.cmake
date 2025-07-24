@@ -1,0 +1,5 @@
+if(EXISTS "/Users/elise/42/post-cc/matrix/build/matrix_test[1]_tests.cmake")
+  include("/Users/elise/42/post-cc/matrix/build/matrix_test[1]_tests.cmake")
+else()
+  add_test(matrix_test_NOT_BUILT matrix_test_NOT_BUILT)
+endif()
