@@ -958,6 +958,7 @@ CMakeFiles/matrix.dir/main.cpp.o: /Users/elise/42/post-cc/matrix/main.cpp \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdint.h \
+  /Users/elise/42/post-cc/matrix/inc/matrix.hpp \
   /Users/elise/42/post-cc/matrix/inc/vector.hpp
 
 
@@ -1722,6 +1723,8 @@ CMakeFiles/matrix.dir/main.cpp.o: /Users/elise/42/post-cc/matrix/main.cpp \
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ios:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
+
+/Users/elise/42/post-cc/matrix/inc/matrix.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/front_insert_iterator.h:
 

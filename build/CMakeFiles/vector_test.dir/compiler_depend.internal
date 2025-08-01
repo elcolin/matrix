@@ -1017,5 +1017,7 @@ CMakeFiles/vector_test.dir/test/vector_test.cpp.o
  /Users/elise/42/post-cc/matrix/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-port.h
  /Users/elise/42/post-cc/matrix/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-string.h
  /Users/elise/42/post-cc/matrix/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-type-util.h
+ /Users/elise/42/post-cc/matrix/inc/linear_algebra.hpp
+ /Users/elise/42/post-cc/matrix/inc/matrix.hpp
  /Users/elise/42/post-cc/matrix/inc/vector.hpp
 

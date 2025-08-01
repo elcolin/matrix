@@ -1014,4 +1014,6 @@ CMakeFiles/vector_test.dir/test/vector_test.cpp.o: \
   /Users/elise/42/post-cc/matrix/build/_deps/googletest-src/googletest/include/gtest/gtest-typed-test.h \
   /Users/elise/42/post-cc/matrix/build/_deps/googletest-src/googletest/include/gtest/gtest_pred_impl.h \
   /Users/elise/42/post-cc/matrix/build/_deps/googletest-src/googletest/include/gtest/gtest_prod.h \
-  /Users/elise/42/post-cc/matrix/inc/vector.hpp
+  /Users/elise/42/post-cc/matrix/inc/vector.hpp \
+  /Users/elise/42/post-cc/matrix/inc/linear_algebra.hpp \
+  /Users/elise/42/post-cc/matrix/inc/matrix.hpp

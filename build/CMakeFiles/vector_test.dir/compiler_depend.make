@@ -1016,8 +1016,12 @@ CMakeFiles/vector_test.dir/test/vector_test.cpp.o: /Users/elise/42/post-cc/matri
   _deps/googletest-src/googletest/include/gtest/internal/gtest-port.h \
   _deps/googletest-src/googletest/include/gtest/internal/gtest-string.h \
   _deps/googletest-src/googletest/include/gtest/internal/gtest-type-util.h \
+  /Users/elise/42/post-cc/matrix/inc/linear_algebra.hpp \
+  /Users/elise/42/post-cc/matrix/inc/matrix.hpp \
   /Users/elise/42/post-cc/matrix/inc/vector.hpp
 
+
+/Users/elise/42/post-cc/matrix/inc/linear_algebra.hpp:
 
 _deps/googletest-src/googletest/include/gtest/internal/gtest-port.h:
 
@@ -1842,6 +1846,8 @@ _deps/googletest-src/googletest/include/gtest/gtest.h:
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/ios:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
+
+/Users/elise/42/post-cc/matrix/inc/matrix.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/front_insert_iterator.h:
 
